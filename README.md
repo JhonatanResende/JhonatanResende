@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jhonatan Resende! 👋🏻
 
-- 🔭 Desenvolvedor Front End Júnior
+- 🔭 Desenvolvedor Front-End Júnior
 - 🌱 Estudante de Análise de Desenvolvimento de Sistemas
 
 <div>
