@@ -1,19 +1,40 @@
 ## Olá! Eu sou o Jhonatan Resende! 👋🏻
 
-- 💻 Desenvolvedor Full Stack
-- 📱 Desenvolvedor Mobile
-- 🎓 Analista e Desenvolvedor de Sistemas
+- 💻 **`Desenvolvedor Full Stack`**
+- 📱 **`Desenvolvedor Mobile`**
+- 🎓 **`Analista e Desenvolvedor de Sistemas`**
 
-<div>
-  <a href="https://github.com/JhonatanResende">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanResende&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanResende&layout=compact&langs_count=16&theme=dark"/>
-</div>
+##
+
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jhonatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jhonatan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jhonatan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Jhonatan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" alt="Jhonatan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Jhonatan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="Jhonatan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img align="center" alt="Jhonatan-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="Jhonatan-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Jhonatan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center" alt="Jhonatan-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="Jhonatan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Jhonatan-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    <img align="center" alt="Jhonatan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+</div>
+
+<br/>
+
+### 📊 Estatísticas
+
+<div>
+  <a href="https://github.com/JhonatanResende">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JhonatanResende&show_icons=true&theme=dark&include_all_commits=true"/>
+  </a>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanResende&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ##
