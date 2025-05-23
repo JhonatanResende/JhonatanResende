@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Jhonatan Resende! 👋🏻
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudante de Análise de Desenvolvimento de Sistemas
+- 💻 Desenvolvedor Full Stack
+- 📱 Desenvolvedor Mobile
+- 🎓 Analista e Desenvolvedor de Sistemas
 
 <div>
   <a href="https://github.com/JhonatanResende">
