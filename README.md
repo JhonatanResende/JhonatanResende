@@ -34,14 +34,7 @@
 
 ### 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/JhonatanResende">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jhonatanresende&show_icons=true&locale=pt-br&theme=dark&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/JhonatanResende">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanResende&layout=compact&custom_title=Tecnologias&langs_count=16&theme=dark"/>
-  </a>
-</div>
+
 
 ##
 
