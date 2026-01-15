@@ -2,6 +2,7 @@
 
 - 💻 **`Desenvolvedor Full Stack`**
 - 📱 **`Desenvolvedor Mobile`**
+- 📈 **`Analista de Dados`**
 - 🎓 **`Analista e Desenvolvedor de Sistemas`**
 
 ##
