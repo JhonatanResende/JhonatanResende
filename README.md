@@ -32,7 +32,9 @@
     <img align="center" alt="Jhonatan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     <img align="center" alt="Jhonatan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Jhonatan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="Jhonatan-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />      
+    <img align="center" alt="Jhonatan-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+    <img align="center" alt="Jhonatan-csharp" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
+    <img align="center" alt="Jhonatan-dot-net" height="30" width="40" src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg" />
     <img align="center" alt="Jhonatan-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </div>
 
