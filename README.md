@@ -15,6 +15,7 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jhonatan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="Jhonatan-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
     <img align="center" alt="Jhonatan-MySQL" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="Jhonatan-PostgreSQL" height="30" width="40"
