@@ -43,7 +43,7 @@
 **Ferramentas**
 <p>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+  <img height="30" src="https://cdn.simpleicons.org/github/8B5CF6" title="GitHub"/>
 </p>
 
 ---
